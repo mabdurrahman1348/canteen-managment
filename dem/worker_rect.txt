@@ -1,0 +1,5 @@
+Ali:50:50:50:130
+Akhtar:50
+Shayan:50
+Hasnain:50
+Haris:50:50
